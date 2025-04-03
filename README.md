@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Samarth-4403
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently making projects related to frontend development
 - 📫 How to reach me www.linkedin.com/in/samarth-parija-07920023a
 
 <!---
